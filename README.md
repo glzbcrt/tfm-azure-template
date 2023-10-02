@@ -1,2 +1,2 @@
-# tfm-azure-template
-Terraform Azure module template
+
+This repo contains a template for Terraform modules which create resources on Azure.
